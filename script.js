@@ -2,7 +2,7 @@
    COUNTDOWN TIMER
 ========================================= */
 
-const targetDate = new Date("May 15, 2026 00:00:00");
+const targetDate = new Date("May 15, 2027 00:00:00");
 
 function updateCountdown(){
 
